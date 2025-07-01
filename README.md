@@ -134,7 +134,7 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sam-verse&show_icons=true&theme=blue&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=sam-verse&theme=github&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=sam-verse" height="150" alt="streak graph" />
 </p>
 
 <p align="center">
