@@ -16,7 +16,6 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
 
 - 🧠 Practicing clean code, clean design, and user empathy
 - 🔍 Exploring micro-interactions, motion UI & component reusability
-- 🌐 Building real products: *Student's Amigo*, *Pulse Pro*, and more
 
 ---
 
@@ -85,7 +84,7 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
       </td>
      <td align="center" width="250">
         <b>Crush those grades - REC Grade Guide</b><br/>
-        <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751358757/Screenshot_2025-07-01_140021_nysday.png" alt="Student's Amigo"/><br/>
+        <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751362128/2024-recap_x4kl6e.png" alt="Student's Amigo"/><br/>
         <sub>React, JavaScript</sub><br/>
          <a href="https://rec-grade-guide.vercel.app/">🌐Live Demo</a>
       </td>
@@ -103,7 +102,7 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-contribution-graph.vercel.app/api?username=sam-verse&theme=github-compact" alt="github contribution graph" />
 </p>
 
 <p align="center"><i>My GitHub activity, visualized as a playful snake! (Refresh for more 🌀)</i></p>
@@ -113,7 +112,7 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
 ## 🧰 Tech & Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,framer,firebase,figma,vscode,cpp" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase,figma,vscode,cpp" height="48"/>
 </p>
 
 <p align="center">
@@ -124,7 +123,7 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-EF0179?style=for-the-badge&logo=framer"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
