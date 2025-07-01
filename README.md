@@ -102,10 +102,7 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
 
 
 <p align="center">
-  <h2>📈 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam-verse&theme=dracula" alt="GitHub Contribution Graph"/>
-  <br/>
-  <i>Consistent contributions power my journey 🚀</i>
+  <img src="YOUR_UPLOADED_IMAGE_URL" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
