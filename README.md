@@ -102,10 +102,11 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
 
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api?username=sam-verse&theme=github-compact" alt="github contribution graph" />
+  <h2>📈 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam-verse&theme=dracula" alt="GitHub Contribution Graph"/>
+  <br/>
+  <i>Consistent contributions power my journey 🚀</i>
 </p>
-
-<p align="center"><i>My GitHub activity, visualized as a playful snake! (Refresh for more 🌀)</i></p>
 
 ---
 
