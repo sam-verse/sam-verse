@@ -48,8 +48,6 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
         <b>G-Pay Expense Tracker</b><br/>
         <!-- <sub>React Native, Firebase, Lottie</sub> -->
       </td>
-    </tr>
-    <tr>
       <td align="center" width="250">
         <!-- <a href="https://dribbble.com/shots/YourShotLink"> -->
           <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751351282/2024_recap.png" alt="Career Guidance App UI"/>
