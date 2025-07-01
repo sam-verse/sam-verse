@@ -1,17 +1,163 @@
-<h1 align="center">Hi 👋, I'm Abraham Samuel E</h1>
-<h3 align="center">A passionate Dev-Designer from India</h3>
+<h1 align="center">✨ Hey, I'm Abraham Samuel E ✨</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-verse" alt="sam-verse" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abraham-samuel-e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham-samuel-e" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/abraham._.samuel/https://www.instagram.com/abraham._.samuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abraham._.samuel/https://www.instagram.com/abraham._.samuel/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06F1D9&center=true&vCenter=true&width=500&lines=Developer+%2B+Designer+%F0%9F%92%A1;Frontend+Specialist+%7C+DSA+Practitioner;UI%2FUX+Craftsman+%7C+Pixel+Perfectionist;Let's+Build+Something+Awesome!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" height="200"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-verse&show_icons=true&locale=en&layout=compact" alt="sam-verse" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-verse&" alt="sam-verse" /></p>
+## Who Am I?
+
+A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳, I'm all about crafting immersive digital experiences and solving real-world problems with **DSA**.
+
+- 🧠 Practicing clean code, clean design, and user empathy
+- 🔍 Exploring micro-interactions, motion UI & component reusability
+- 🌐 Building real products: *Student's Amigo*, *Pulse Pro*, and more
+
+---
+
+## 🌠 Signature Quote
+
+> *"I design and develop experiences that make peole's lives simple."*  
+> <p align="right"><i>— Abraham Samuel E</i></p>
+
+---
+
+## 🎨 Design Showcase
+
+> **Handpicked from my digital canvas.** Delightfully crafted, detail-obsessed, and performance-minded.
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <!-- <a href="https://www.figma.com/file/XYZ/Students-Amigo-Designs"> -->
+          <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751348819/student_s_amigo_sezmi5.png" alt="Student's Amigo UI"/>
+        </a><br/>
+        <b>Student's Amigo UI Kit</b><br/>
+        <!-- <sub>Figma, Tailwind</sub> -->
+      </td>
+      <td align="center" width="250">
+        <!-- <a href="https://xyz.com/pulse-pro-ui"> -->
+          <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751349926/gpay_s68eww.png" alt="G-PAY New Feature"/>
+        </a><br/>
+        <b>G-Pay Expense Tracker</b><br/>
+        <!-- <sub>React Native, Firebase, Lottie</sub> -->
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <!-- <a href="https://dribbble.com/shots/YourShotLink"> -->
+          <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751351282/2024_recap.png" alt="Career Guidance App UI"/>
+        </a><br/>
+        <b>2024 RECAP</b><br/>
+        <!-- <sub>Figma, Framer</sub> -->
+      </td>
+      <td align="center" width="250">
+        <!-- <a href="https://github.com/sam-verse/food-app-ui"> -->
+          <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751353646/newsletters.png" alt="NewsLetters"/>
+        </a><br/>
+        <b>NewsLetters</b><br/>
+        <!-- <sub>Kotlin, Android Studio</sub> -->
+      </td>
+    </tr>
+  </table>
+</p>
+
+### 🖼️ More Designs
+
+- <a href="https://drive.google.com/file/d/1fB-BH-Dw0byBYrAvnz2tyGkv8a_zmai5/view"><b>🧠 Design Portfolio</b></a> 
+
+---
+
+## 🚀 Recent Projects
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <b>Model Organization Chart - HappyFox</b><br/>
+        <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751358297/happyfox-ss_rzkasb.png" alt="Model Organization Chart - HappyFox"/><br/>
+        <sub>React, DnD, Framer Motion</sub><br/>
+        <a href="https://happyfox-frontend-assignment-abraham.vercel.app">🌐 Live Demo</a>
+      </td>
+     <td align="center" width="250">
+        <b>Crush those grades - REC Grade Guide</b><br/>
+        <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751358757/Screenshot_2025-07-01_140021_nysday.png" alt="Student's Amigo"/><br/>
+        <sub>React, JavaScript</sub><br/>
+         <a href="https://rec-grade-guide.vercel.app/">🌐Live Demo</a>
+      </td>
+         <td align="center" width="250">
+        <b>Swimming & Fitness - Individual Medley</b><br/>
+        <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751358303/individual-medley-ss_fmp2rv.png" alt="Pulse Pro"/><br/>
+        <sub>React, Framer Motion</sub><br/>
+        <a href="https://individual-medley.vercel.app/">🌐Live Demo</a>
+      </td>
+    </tr>
+    
+  </table>
+</p>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center"><i>My GitHub activity, visualized as a playful snake! (Refresh for more 🌀)</i></p>
+
+---
+
+## 🧰 Tech & Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,framer,firebase,figma,vscode,cpp" height="48"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-EF0179?style=for-the-badge&logo=framer"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+</p>
+
+---
+
+## 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sam-verse&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sam-verse&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-verse&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+
+
+## 🌐 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abrahamsamuel-e/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:abrahamsamuel562004@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/sam-verse"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+<h3 align="center">🚀 Let's Build the Future — One Pixel at a Time</h3>
+
