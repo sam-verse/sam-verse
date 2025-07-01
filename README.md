@@ -76,26 +76,27 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
 <p align="center">
   <table>
     <tr>
+      <td></td>
       <td align="center" width="250">
         <b>Model Organization Chart - HappyFox</b><br/>
         <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751358297/happyfox-ss_rzkasb.png" alt="Model Organization Chart - HappyFox"/><br/>
         <sub>React, DnD, Framer Motion</sub><br/>
         <a href="https://happyfox-frontend-assignment-abraham.vercel.app">🌐 Live Demo</a>
       </td>
-     <td align="center" width="250">
+      <td align="center" width="250">
         <b>Crush those grades - REC Grade Guide</b><br/>
         <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751358757/Screenshot_2025-07-01_140021_nysday.png" alt="Student's Amigo"/><br/>
         <sub>React, JavaScript</sub><br/>
          <a href="https://rec-grade-guide.vercel.app/">🌐Live Demo</a>
       </td>
-         <td align="center" width="250">
+      <td align="center" width="250">
         <b>Swimming & Fitness - Individual Medley</b><br/>
         <img src="https://res.cloudinary.com/dlnwacm5j/image/upload/v1751358303/individual-medley-ss_fmp2rv.png" alt="Pulse Pro"/><br/>
         <sub>React, Framer Motion</sub><br/>
         <a href="https://individual-medley.vercel.app/">🌐Live Demo</a>
       </td>
+      <td></td>
     </tr>
-    
   </table>
 </p>
 
@@ -124,15 +125,27 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
 
 ---
 
-## 🏆 GitHub Highlights
+<h2 align="center">🏆 GitHub Highlights</h2>
+<p align="center"><i>Celebrating my open-source journey and milestones!</i></p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sam-verse&theme=github&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sam-verse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=sam-verse&locale=en&mode=weekly&theme=github&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-verse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue&hide_border=false&order=2" height="164" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam-verse&radius=16&theme=github&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sam-verse&theme=github&column=10&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="140" alt="trophy graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sam-verse&show_icons=true&theme=blue&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=sam-verse&theme=github&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-verse&layout=compact&theme=blue&hide_border=false" height="164" alt="languages graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam-verse&theme=github&area=true&hide_border=false" height="300" alt="activity-graph graph" />
+</p>
+
+<p align="center"><i>If you see outdated or missing stats above, the GitHub stats service is temporarily down or rate-limited. Please check back later!</i></p>
 
 ---
 
