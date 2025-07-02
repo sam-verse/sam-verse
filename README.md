@@ -67,7 +67,7 @@ A creative blend of **Frontend Developer** and **UI/UX Designer** from 🇮🇳,
 
 ### 🖼️ More Designs
 
-- <a href="https://drive.google.com/file/d/1fB-BH-Dw0byBYrAvnz2tyGkv8a_zmai5/view"><b>🧠 Design Portfolio</b></a> 
+> <a href="https://drive.google.com/file/d/1fB-BH-Dw0byBYrAvnz2tyGkv8a_zmai5/view"><b>🧠 Design Portfolio</b></a> 
 
 ---
 
